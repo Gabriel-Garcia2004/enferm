@@ -18,7 +18,7 @@
 .about-wrap {
 	position: relative;
 	margin: 25px 20px 0 40px;
-	max-width: 1050px; /* readability */
+	max-width: 1050px; 
 	font-size: 15px;
 }
 
@@ -35,14 +35,12 @@
 .about-wrap .notice {
 	display: none !important;
 }
-
 .about-wrap hr {
 	border: 0;
 	height: 0;
 	margin: 3em 0 0;
 	border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
-
 .about-wrap img {
 	margin: 0;
 	width: 100%;
