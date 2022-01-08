@@ -840,7 +840,7 @@ textarea {
 .site-header {
 	
 	background: linear-gradient(
-137deg, #425cbb 0%, #3e56af 100%, #2f4491 100%) !important;
+137deg, #425cbb 0%, #2e4597 100%, #24377e 100%) !important;
 	background-color: var(--header-background-color);
 	color: #fff;
 	color: var(--header-text-color);
@@ -1186,7 +1186,7 @@ textarea {
 .site-main > article:not(.type-post):not(.type-page):not(.type-attachment),
 .post-wrapper > .post-column > article:not(.type-post):not(.type-page):not(.type-attachment) {
 	margin: 0 0 2em 0;
-	padding: 1.5em;
+	padding: 1rem 8px;
 	max-width: 100%;
 	border-top: 3px solid;
 	border-color: #425cbb;
